@@ -1,0 +1,8 @@
+/**
+  * Mixins
+  */
+@mixin vertical-game {
+  @media (orientation: portrait), (max-height: 500px) {
+    @content;
+  }
+}
