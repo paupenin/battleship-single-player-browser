@@ -4,7 +4,7 @@
 Battleship single player game for the browser. The game is played on a 10x10 grid. The player has to sink all the ships placed by the computer. The game ends when all ships are sunk.
 
 ## Demo
-[Play the game](https://battleship-single-player-browser.vercel.com/)
+[Play the game now](https://battleship-single-player-browser.vercel.app/)
 
 ## Rules
 - The player can only fire using the coordinates A1 to J10.
@@ -45,7 +45,7 @@ You can use cheat codes by typing the code in the input field and firing.
 2. Install dependencies ```yarn```
 
 ### Development
- Run the development server and open the URL form console in the browser:
+ Run the development server and open the URL displayed in the console:
 
  ```yarn dev```
 
